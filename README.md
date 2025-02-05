@@ -38,8 +38,8 @@ Una divertida aplicación web en la que tendrás que **adivinar un número** ent
 
 ## Demo
 
-![Captura de pantalla del juego](ruta/a/tu/screenshot.png)  
-*(Reemplaza `ruta/a/tu/screenshot.png` con la URL de tu imagen)*
+![Captura de pantalla del juego](guessMyNumberCap.png)  
+
 
 ---
 
