@@ -58,7 +58,7 @@ Sigue estos sencillos pasos para ejecutar el juego en tu máquina local:
 2. **Accede al directorio del proyecto:**
 
     ```bash
-    cd guess-my-number
+    cd starter
     ```
 
 3. **Abre el archivo `index.html` en tu navegador:**
