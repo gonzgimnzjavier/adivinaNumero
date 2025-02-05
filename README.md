@@ -38,13 +38,6 @@ Una divertida aplicación web en la que tendrás que **adivinar un número** ent
 
 ## Demo
 
-¡Prueba la aplicación directamente en tu navegador!
-
-> **Nota:** Si dispones de una demo en vivo, puedes incluir el enlace a continuación.
-
-[Ver Demo en Vivo](https://tu-enlace-a-la-demo.com)  
-*O bien, puedes ver una captura de pantalla del juego:*
-
 ![Captura de pantalla del juego](ruta/a/tu/screenshot.png)  
 *(Reemplaza `ruta/a/tu/screenshot.png` con la URL de tu imagen)*
 
@@ -125,9 +118,9 @@ Este proyecto se distribuye bajo la licencia [MIT](LICENSE).
 
 Si tienes alguna pregunta, sugerencia o simplemente deseas saludar, puedes contactarme:
 
-- **Nombre:** Tu Nombre
-- **GitHub:** [tu-usuario](https://github.com/tu-usuario)
-- **Email:** [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+- **Nombre:** Javier
+- **GitHub:** [tu-usuario](https://github.com/gonzgimnzjavier)
+- **Email:** [tu-email@ejemplo.com](mailto:javiergonzalezgimenez2003@gmail.com)
 
 ---
 
