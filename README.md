@@ -39,7 +39,7 @@ Una divertida aplicación web para aprender JS en la que tendrás que **adivinar
 
 ## Demo 🎥
 
-![Captura de pantalla del juego](guessMyNumberCap.png)
+![Captura de pantalla del juego](guessNumber.gif)
 
 _Disfruta del juego en acción y comprueba tu habilidad para adivinar el número secreto. ¡Es hora de divertirse! 🎉_
 
